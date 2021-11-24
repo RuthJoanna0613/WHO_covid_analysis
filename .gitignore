@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+/Population_Data.csv
+/WHO-COVID-19-GLOBAL-data.csv
+/WHO-COVID-19-data-africa.csv
+/WHO-COVID-19-data-americas.csv
+/WHO-COVID-19-data-europe.csv
+/WHO-COVID-19-data-south-east-asia.csv
+/WHO-COVID-19-data-west-pacific.csv
+/WHO-COVID-19-data-eastern-mediterranean.csv
