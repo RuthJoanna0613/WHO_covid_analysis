@@ -127,7 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
+### Unwanted files
 /Population_Data.csv
 /WHO-COVID-19-GLOBAL-data.csv
 /WHO-COVID-19-data-africa.csv
